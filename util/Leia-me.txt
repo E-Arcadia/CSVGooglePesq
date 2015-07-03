@@ -1,0 +1,1 @@
+A exportação da planilha Google tem de ser no formato "Valores separado por tabulação (.tsv)
